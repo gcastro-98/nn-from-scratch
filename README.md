@@ -10,7 +10,9 @@ It is currently a little sketch, thus it just supports:
   - Specifically, forward-propagation is used and implemented using the ``autograd`` package. 
 
 As per example, the code is applied to solve a classification problem,
-found at the ``example.py`` module.
+found at the ``example.py`` module. Below, an image of the boundary plot of the built classifier is displayed.
+
+![boundary_plot](https://user-images.githubusercontent.com/83754427/194401396-55bbe092-4883-40ef-b6c2-e137a2621e76.png)
 
 ## Installation
 To install this package's modules into your conda environment ``conda-env``,
